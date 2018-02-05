@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WmtMVP</string>
+    <string name="default_progress_dialog_title">Loading</string>
+    <string name="default_progress_dialog_message">Please wait…</string>
+    <string name="default_snackbar_action_title">Okay</string>
+    <string name="default_alert_dialog_button_title">OK</string>
+</resources>
