@@ -15,4 +15,4 @@ This project demonstrate MVP architecture with advance libraries like RXJAVA , D
 
 * [**WebMob Technologies**](https://github.com/WebMobTechnologies)
 
-![alt text](https://github.com/WebMob-Technologies/androidmvp/tree/master/screenshots/webmobtechlogo.png)
+![WebMob_Technologies](https://github.com/WebMob-Technologies/androidmvp/blob/master/screenshots/webmobtechlogo.png)
