@@ -1,6 +1,6 @@
-# Android MVP Architecture with RXJava2, Dagger2, Retrofit2,Eventbus and ButterKnife
+# Android MVP Architecture
 
-This project demonstrate MVP architecture with advance libraries like RXJAVA , DependencyInjection using Dagger2 and ButterKnife and Network api call using RXJava2 and Retrofit2. 
+This project demonstrate MVP architecture with advance libraries like RXAndroid2, DependencyInjection using Dagger2 and ButterKnife and Network api call using RXJava2 and Retrofit2. 
 
 ## Built With
 
