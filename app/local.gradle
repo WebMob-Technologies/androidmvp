@@ -1,0 +1,8 @@
+ext {
+    libVersion = [
+            DAGGER_VERSION = '2.13',
+            SUPPORT_VERSION = '27.0.2',
+            RETROFIT_VERSION = '2.3.0',
+            BUTTER_KNIFE_VERSION = '8.8.1',
+    ]
+}
